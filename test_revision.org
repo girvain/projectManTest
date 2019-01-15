@@ -1,0 +1,172 @@
+* Unit 1
+** Introduction to Module 
+** Project characteristics -triple constraint, project stakeholders, project success definition, and project manager skills/role.
+*** What are a projects characteristics?
+    Projects are often contrasted with a process. A process describes the normal day-to-day
+    activities of an organisation, while the word project is often used to describe something 
+    outside the normal day-to-day work. In fields such as construction and software engineering
+    the day-to-day is carrying out projects. 
+    Key features of a project are:
+    - A project is unique
+    - projects have specific goals 
+    - projects require resources
+    - projects have budgets
+    - projects have schedules
+    - projects require the effort of people
+    - measures of quality will apply
+
+*** Customer has requested a change that affects the scope (quality)?
+    Whenever you are making a change that affects the triple constraint, you need to 
+    make sure that the change is acceptable to your stakeholder(s). The are the people
+    who will be impacted by your project. Project management is about evaluation of what a
+    change will do regarding the triple constraint of scope, cost and time. Using this
+    to create analysis will help stakeholders to make the right choices. Sometimes when
+    a change affects the quality of a project it is unacceptable to the stakeholder and
+    they would rather extend the time or cost to prevent this.
+*** Construct a table constrasting project management with operational management?
+
+    | PROJECTS           | OPERATIONS                |
+    | Significant change | Any change is significant |
+    | Limited time/scope | Never-ending              |
+    | Unique             | Repatative                |
+    | REsources vary     | Resources are stable      |
+    | Goal orientated    | Role orientated           |
+    | Transient          | stable                    |
+    |                    |                           |
+    
+*** Evaluate the role of a project manager in determining success or failure of a project?
+    
+** Systems view - systems approach - systems philosophy, systems analysis and systems management
+*** Discuss the systems view of project management etc
+    This involves considering projects in the context of a larger system. Instead of the narrow
+    project view, project managers must consider 
+** Diverse nature of IT projects, including the implications of using open source software
+*** Discuss factors that make IT projects diferent... ?
+    Project managers need to consider several factors due to the unique context of the IT 
+    projects. These factors are:
+    - Diverse nature of projects
+    - wide ranger of business areas and technologies
+    - leading teams with wide variety of specialties
+    - understanding rapidly changing technologies, i.e android
+    - global size projects can have diferent cultures/languages withing a project
+** Stage gates, delivering a project in incremental iterations.
+*** Delivering a project in incremental stages?
+    Delivering a project in incremental stages allows stakeholders to review and evaluate project progress
+    at many points throughout the projects life span. The key product development activities
+    such as requirements definition, design, construction, and testing are performed during each
+    iteration, and each iteration results in a more refined product. This enables stakeholders to agree on
+    changes to requirements or product design as the project is in progress.
+*** Explain the concept and need for stage gates between project phases?
+    Project mnagers divide projects into various phases in order to facilitate better control
+    and communication. These phases have clearly defined deliverables and criteria that establish
+    whether or not it is in time to move on to the next phase of the project. The gaps between 
+    these phases are called "stage gates". These stage gates allow for management to stop and
+    review the projects progress and performance. During this time, management can make a decisian
+    as to whether or not to continue the project.
+** Project management process groups-project initiation, project planning, project execution, project monitoring and controlling, and project closing.
+** Organisational structure - Functional, Project, Matrix - and implications for project management
+*** Evaluate each organisational structure?
+    - Functional
+      In a funcitonal organisation many people may persue functional rather than
+      organisational objectives. In addition, people may have little knowledge of or
+      interest outside their functional specialism.
+      The problem with managing a project in this enviroment is that, if the project is
+      run withing one function, people from the other functions may not co-operate fully
+      with it, or my even work against the project. If the project is cross functional,
+      the project manager may face interference form the line managers in the various 
+      functions.
+    - Matrix 
+      This tends to be more resouce efficent sinze it is perfectly feasible, for example
+      to have the part time services of a particullar specialist. Team members also do
+      not lose touch with "home" functions. The main problem with the matrix structures
+      stem from people having more than one manager, leading to difficulties in 
+      prioritisation of effort and time management.
+    - Project
+      A project organisation contains within itseld all of the resources needed to complete
+      the projects objectives. Thus, the project manager has the whole project under their
+      their control. However the project may be inefficient use of resouces, since one 
+      cannot have less than one resources of a particular type even if it is not a full
+      time job for that person. In addition, the project team members often suffer from
+      a feeling of insecurity, not knowing what will happen to them at the end of the project
+      Also the project may become detached from the rest of the project.
+** Standards in software project management
+** Project Life Cycle: sphere model for systems management (business, organisation, technology) Project life cycles
+*** Discuss what ever project in terms of 3 sphere system management model?
+    The project must address all 3 spheres of the systems management model. It's easier to 
+    focus on immediate concerns of a project but project managers and staff must focus on the 
+    needs of the entire system or organisaton. This helps a project manager break down a project
+    into a series of interrealted phases to improve chances of success.
+    - Business 
+      Does it make financial sense? What will the app cost? What will maintenince cost?
+      What will supplier costs be? Is it affordable?
+    - Technology, This is hardware and software needed for the software/device
+      Will the software run well on the devices/OS etc?
+      Will it be compatible with future upgrades of hardware?
+    - Organisation, This is the suitability for client using the product.
+      Is the product going to be useable by the clients withing the timescale laid out? 
+      Does it require training to use?
+      Availability to users outside the initial criteria?
+
+* Unit 3
+*** Purpose and importance of a work breakdown structure?
+    A WBS is a deliverable oriented grouping of the work involved in a project that defines
+    the total scope of the project. because most projects involve many people and many 
+    different deliverables, it is important to organise and divide the work into logical
+    parts based on how the work will be performed. The WPS is a foundation document in
+    project management, it provides the basis for planning and managing project schedules,
+    costs, resources and changes. Can be shown as a task oriented family tree of activities
+    like an organisation chart, or shown in tabular form as indented list of tasks. 
+*** evaluate basic response strategies for negative risk (risk avoidance, risk reduction, risk transferral, risk acceptance).
+    - Avoidance - This involves turning down or redefining the project to exclude the 
+      risk area because the risk cannot otherwise be controlled.
+    - Reduction - This involves introducing controls that reduce the likelihood and the
+      impact of the damage caused by the risk event occuring, e.g hire or purchase
+      appropriate tools (reduce probability) or add extra time to a project (reduce impact),
+      includes computer security such as standby and recovery procedures.
+    - Transferral - This involves transferring risks to third parties through insurance
+      policies, indemnity agreements, and subcontracts. Such risks are often at a low
+      probability but involve high impact.
+      
+* Unit 4
+* Unit 5
+*** What is a stakeholder register and whats in it?
+    A simple way to document basic info on a projects stakeholders is by creating a stakeholder
+    register. This document can take various forms and includes the following:
+    - ID information - The stakeholders name, position, location, role in the project, contact
+    - Assessment Information - Major requirements and expectations, potential influences, and
+      phases of the project in which stakeholders have the most interest.
+    - Stakeholder Classification - Is the stakeholder internal or external to the organistaion?
+      It the stakeholder a supporter of the project or resistant to it?
+*** 4 main processes of project procurement?
+    - Planning
+    - Conducting
+    - Controlling
+    - Closing
+* Unit 6
+* Unit 7
+* main types of questions
+** systems view / organisational structures
+** risk assessment
+** activity networks/WPS
+** ethics
+** project methodologies
+** ROI,NPV,WBS,SWAT
+*** Carry out a SWOT analysis?
+    - Strengths
+      The company have experienced web developers
+      The company have examples from previous projects to reference
+    - Weaknesses
+      little money to invest
+      relatively new company
+      little to no accounting experience
+    - Oppertunities
+      There are 2 conferences this year where the company will be able to promote it's work.
+      A contract as be put forward for out company to bid for.
+    - Threats
+      Other individuals and rival companies can provide the same work as us for cheaper
+      Customers may prefer to work with a more established company
+*** Purpose of a SWOT analysis?    
+    A swot analysis is to analyse the strengths, weaknesses, oppertunities and threats
+    of a project/business. It is used during the planning phase of a project to help
+    when brainstorming. It can also be used to identify a project to work on when trying
+    to select a project. It can also be used in a risk assessment to identify risks.
