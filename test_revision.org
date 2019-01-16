@@ -35,6 +35,7 @@
     |                    |                           |
     
 *** Evaluate the role of a project manager in determining success or failure of a project?
+
     
 ** Systems view - systems approach - systems philosophy, systems analysis and systems management
 *** Discuss the systems view of project management etc
@@ -126,8 +127,46 @@
     - Transferral - This involves transferring risks to third parties through insurance
       policies, indemnity agreements, and subcontracts. Such risks are often at a low
       probability but involve high impact.
+    - Acceptance - Some risks may be acceptable. This may be bacause the chances of the
+      loss occuring are considered remote or the amount likely to be lost is small. The
+      controls which would be required to prevent loss may be too expensive or work
+      efficiently. 
       
 * Unit 4
+** Definitions of Payback method, NPV, IRR
+*** explain the affect of doubling the size of the project?
+    - IRR
+      There is no change, the value of IRR is independent of project size
+    - NPV
+      The value of th NPV is doubled
+*** Which project to pick justificaiton?
+    - Compare the ROI
+    - Upfront cost of the project
+    - highest NPV
+    - IRR (if needed)
+** Quality Management Frameworks, Quality Planning, Importance of quality management, quality  planning, quality assurance, quality control, including techniques, e.g. SEI CMMI model
+*** What are the three main outcomes of quality control?
+    - Acceptance decisions 
+      determine if the products or services produced as part of the project
+      will be accepted or rejected. If they are accepted, they are considered to be validated
+      deliverables. If project stakeholders reject some of the products or services produced
+      as part of the project, there must be rework.
+    - Rework
+      is action taken to bring rejected items into compliance with project requirements or spec
+      Rework often results in requested changes and validated defect repair, resulting from
+      recommended defect repair or corrective/preventative actions. Rework can be expensive so
+      is best avoided.
+    - Process adjustments
+      correct or prevent further quality problems based on quality control measurements. Process 
+      adjustments are often found by using quality control measurements and they often result in
+      updates to the quality assurance to avoid this need.
+*** Three ways of reducing risk from inexperienced staff with a methodology?
+    - Recruit experienced people
+    - Train staff
+    - Outsource
+      
+
+
 * Unit 5
 *** What is a stakeholder register and whats in it?
     A simple way to document basic info on a projects stakeholders is by creating a stakeholder
@@ -139,11 +178,25 @@
       It the stakeholder a supporter of the project or resistant to it?
 *** 4 main processes of project procurement?
     - Planning
+      This involves determining what to procure, when and how. When planing, a project manager 
+      must decide what to outsource, determine the type of contract and describe the work to 
+      potential sellers.
     - Conducting
+      This involves getting seller responses, selecting sellers and awarding contracts.
     - Controlling
+      This involves managing relationships with sellers, monitoring contract performance and
+      making changes as needed.
     - Closing
+      This involves completion and settlement of each contract or aggreement, including resolution
+      of any open items.
 * Unit 6
 * Unit 7
+** Software Development methods
+*** Why the use of extreme programing isn't a good idea?
+    - XP programing is known to make projects more manageble and improve communications in a team, 
+      however it does not have a good track record with large teams or projects. XP also requires 
+      experienced developers which a project will not have if it's being outsourced. XP is not good
+      for mission critical applications, a better solution would be the spiral methodology.
 * main types of questions
 ** systems view / organisational structures
 ** risk assessment
@@ -164,7 +217,7 @@
       A contract as be put forward for out company to bid for.
     - Threats
       Other individuals and rival companies can provide the same work as us for cheaper
-      Customers may prefer to work with a more established company
+     Customers may prefer to work with a more established company
 *** Purpose of a SWOT analysis?    
     A swot analysis is to analyse the strengths, weaknesses, oppertunities and threats
     of a project/business. It is used during the planning phase of a project to help
