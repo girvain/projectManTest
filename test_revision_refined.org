@@ -25,5 +25,84 @@
   - construction
   - testing
   Performing these at each iteration results in a more refined product.
+* Explain the need for stage gates?
+  Project managers divide projects into phases for control and communication. These 
+  phases have defined deliverables that establish wither it's time to move onto the 
+  next phase. The gaps between these phases are called stage gates and they allow
+  management to stop and review progress and decide wither or not to continue the
+  project.
+* What are a projects characteristics?
+  Projects are contrasted with a process. A process describes the normal day-to-day
+  work of an organisation. A project is something outside the normal day-to-day work.
+  The key features of a project are:
+  - a project is  unique
+  - a project has specific goals
+  - a project has resources
+  - a project has a budget
+  - a project has a timeline/schedule
+  - quality will vary
+* customer has requested a change that affects scope?
+  When a change is being made that affects the triple constraint, the change must be
+  accepted by the stakeholder. Project management is about evaluation of what a change 
+  will do regarding the scope, cost and time. Using this analysis will help stakeholders
+  make the right choices.
+  i.e When a change affects the scope, it might be unacceptable to a stakeholder and
+  they would rather have time added to the project.
+* factors that make IT projects different?
+  PM's need to consider several factors due to the unique context of IT projects.
+  These are:
+  - diverse nature of projects
+  - wide range of business ares and tech
+  - leading teams with wide varieties of specialties
+  - understanding rapidly changeing tech
+* What is a stakeholder register?
+  This is a document of information about the stakeholders. It contains
+  - ID info - name, pos, location, role, contact
+  - Assessment info - major requirements, influences, phases of most interest to them
+  - Stakeholder Classification - internal or external to project? Supporter or 
+    ressistant to project.
+* 4 processes of project procurement?
+  P and the three C's (the conductor)
+  Planning, Conducting, Controlling, Closing
+  - Planning - determine what to procure, when and how. PM's must decide what to outsource
+    determine types of contract and describe work to sellers.
+  - Conducting - This is getting seller responses, selecting sellers and awarding contracts.
+  - Controling - Managing relationships with sellers, monitoring contract performance
+    and making changes.
+  - Closing - completion and settlement of contracts.
+* Response strategies for negative risk?
+  SP-ARTA - Avoidance, Reduction, Transference, Acceptance
+  - Acceptance - This involves turning down or redefining project to exclude the risk
+    because the risk is unavoidable.
+  - Reduction - This involves introducing controls that reduce the chance of the risk
+    and the impact of damage. i.e purchasing tools, adding time to handle damage.
+  - Transferral - This is transferring the risk to third parties through insurence
+    policies, arrgreements and sub-contracts.
+  - Acceptance - Some risks are acceptable. This can be because the chances of loss 
+    are small or the prevention controlls are too expensive.
+* Three outcomes of quality control?
+  ARP - Acceptance decisions, Rework, Process Adjustment
+  - Acceptance decisions - these determine if the product/services produced as part of the
+    project will be accepted. If so they are considered "Validated deliverables", else
+    then there must be rework.
+  - Rework - is action taken to bring rejected items into complience with project 
+    requirements.
+  - Process Adjustment - is to correct or prevent quality problems based on quality control
+    measurements.
+
+* Evaluate each organisational structure?
+** Functional
+   In a functional organisation many people persue functional rather than organisational
+   goals. The problem with this is that if the project is run within one function, people
+   from other functions may not co-operate with it fully.
+** Matrix
+   Is more resource efficient since it's feasable to have part time services. Team members
+   do not loose touch with the "home" functions. The problem with these is people having
+   more than one manager leading to difficulties with priorities.
+** Project
+   A project organisation contains within itself all the resources it needs to complete 
+   the project giving the project manager total control. This however may result in
+   inefficient use of resources.
 * Extra notes
   - Dummy paths in activity diagrams have dotted lines - - - ->
+  - IRR is just doing the NPV for each discount rate (%)
