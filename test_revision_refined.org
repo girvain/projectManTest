@@ -1,0 +1,29 @@
+* Importance of Work breakdown structure
+  A work breakdown structure is a deliverable orientated grouping of the work
+  involved in a project that defines the project scope.
+  Because projects can involve lots of people and tasks it is important to divide
+  the work into logical parts based on the how each task is performed.
+  A WBS is a foundation document providing the basis for planning, costs, resources
+  and changes.
+  It can be shown in tabular form or an organisational chart.
+* 3 spheres system management model thing
+  The project must address the 3 spheres of the systems management model. PM's must
+  focus on the system as a whole and not the immediate needs of the project. This 
+  helps with breaking down a project into phases.
+  - Business - Does it make financial sense? How much will it cost? How much will 
+    maintenince cost? Supplier costs? Is it affordable?
+  - Technology - This is hardware and software for project. Will the software run on
+    device? Will it run on all OS's? Will it be compatible with future upgrades?
+  - Organisation - This is the suitability for client using the product. Is it usable 
+    within the timescale? Does it require training? Is it available to people outside
+    the company/organisation it's being made for?
+* Delivering a project in incremental stages?
+  Delivering a project in incremental stages allows stakeholders to review progress at
+  each stage. The key product development activities for evaluation are:
+  - requirements definition
+  - design
+  - construction
+  - testing
+  Performing these at each iteration results in a more refined product.
+* Extra notes
+  - Dummy paths in activity diagrams have dotted lines - - - ->
